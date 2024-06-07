@@ -1,0 +1,26 @@
+@media(min-width:670px) and (max-width:1024px) {
+    .beranda {
+        width: 70%;
+        margin: 0 auto;
+        align-items: center;
+        float: none;
+
+    }
+
+    .konten_beranda img {
+        width: 250px;
+        height: 250px;
+        float: none;
+        display: flex;
+        margin: 20px auto;
+    }
+
+    .konten_beranda h1 {
+        float: none;
+        width: 100%;
+        padding: 10px;
+        text-align: center ;
+    }
+
+
+}
